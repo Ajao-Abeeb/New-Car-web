@@ -134,7 +134,7 @@ a:hover {
 }
 
 .modal {
-  background-color: transparent;
+  background-color:  rgba(38, 37, 37, 0.675);
 }
 
 .modal-content {
@@ -142,6 +142,9 @@ a:hover {
   outline: none;
   border: none;
 
+}
+button.close{
+  outline: none;
 }
 .s-show{
   display: none;
